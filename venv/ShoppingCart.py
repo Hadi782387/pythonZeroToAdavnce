@@ -16,3 +16,4 @@ for food in foods:
 for price in prices:
     total+=price
     print(total)
+print(f"your total is {total}")
